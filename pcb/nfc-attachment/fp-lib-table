@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "/Users/brushknight/dev/brushknight/nfc-terminal/pcb/libraries/SPH0645LM4H-B/footprints.pretty")(options "")(descr ""))
+)
